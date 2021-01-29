@@ -2,8 +2,14 @@
     color:orange;
 }
 .pink-text{
-    color:palevioletred;
+    color:rgb(245, 59, 136);
 }
 .blue-text{
     color:blue;
+}
+#green-background{
+    background-color: rgba(176, 233, 62, 0.685)
+}
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
